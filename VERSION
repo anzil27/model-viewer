@@ -1,0 +1,11 @@
+commit 70c119afa37fe0821236708f9b741680fe404308
+Author: Ian Clarkson <clarksonian@gmail.com>
+Date:   Wed May 29 11:19:49 2024 -0700
+
+    Upgrade to latest threejs (r164) (#4787)
+    
+    * Upgrade to latest threejs (r164)
+    
+    * `parse` was renamed to `parseAsync`
+    
+    - https://github.com/mrdoob/three.js/pull/28049
